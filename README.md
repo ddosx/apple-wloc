@@ -12,7 +12,7 @@
 
 ## Как модуль:
 
-### Более подробно см ./using_as_module.py
+### Более подробно см [using_as_module.py](https://github.com/ddosx/apple-wloc/blob/main/using_as_module.py)
 
 1. Положите файлы appleloc.py и location_pb2.py к вашему .py файлу
 2. Подключите appleloc к вашей программе ```from appleloc import search as appleloc```
