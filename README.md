@@ -2,6 +2,8 @@
 ## Зависимости:
 1. ```python```
 2. ```pip install protobuf```
+3. ```pip install rich```
+
 ## Использование
 ```python appleloc.py "mac"```
 
