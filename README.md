@@ -1,12 +1,13 @@
 # Простая утилита для проверки ТД по серверам Apple Wloc
 ## Зависимости:
-```python```
-```pip install protobuf```
+1. ```python```
+2. ```pip install protobuf```
 ## Использование
 ```python appleloc.py "mac"```
 
 ## Пример
 ```➜ py appleloc.py b4:5d:50:8f:27:c1```
+
 ```(True, {'mac': 'b4:5d:50:8f:27:c1', 'lat': 59.43193054, 'long': 24.761522290000002, 'altitude': 11, 'accuracy': 42, 'lastchannel': 6})```
 
 ## Как модуль:
